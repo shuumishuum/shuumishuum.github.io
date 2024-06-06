@@ -1,10 +1,10 @@
 A website made with:
--Vite
--React
--TSX
--Sass
--SWC
--React-Router-Dom
+Vite,
+React,
+TSX,
+Sass,
+SWC, and
+React-Router-Dom.
 
 Hoping to include this in my portfolio when I apply to become a frontend web dev! (Minus the little 'detail' on the archive page &#128512;)
 
